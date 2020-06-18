@@ -1,4 +1,4 @@
-FROM python:3.8-alphine
+FROM python:3.8-alpine
 LABEL maintainer="Olumide <olugbemiro.olumide@gmail.com>"
 
 ENV PYTHONUNBUFFERED 1
